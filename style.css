@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to bottom left, #e87400 0% , #ed1cc0 33.3%,#8245d1 66.6%, #1cedd8 100%);
+}
+.header_div{
+    font-family: 'Stick No Bills', sans-serif;
+    background :linear-gradient(to bottom right, cyan 0%, white 50%,yellow 100%);
+    font-size: 18px;
+    width:100%;
+    top:0px;
+    padding: 2.5px;
+}
+.header_div p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
